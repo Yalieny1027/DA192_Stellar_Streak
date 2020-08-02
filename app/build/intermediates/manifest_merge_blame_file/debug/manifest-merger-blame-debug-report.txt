@@ -1,0 +1,232 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.aushadh.Aushadh"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->E:\AUSG\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\AUSG\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\AUSG\app\src\main\AndroidManifest.xml:6:5-67
+11-->E:\AUSG\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->E:\AUSG\app\src\main\AndroidManifest.xml:7:5-68
+12-->E:\AUSG\app\src\main\AndroidManifest.xml:7:22-65
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->E:\AUSG\app\src\main\AndroidManifest.xml:6:5-67
+13-->E:\AUSG\app\src\main\AndroidManifest.xml:6:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:24:5-79
+14-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:24:22-76
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:26:22-107
+16
+17    <application
+17-->E:\AUSG\app\src\main\AndroidManifest.xml:9:5-70:19
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e5357b0b880d2be0ed83398576c19d42\core-1.2.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@drawable/ic_launcher1"
+20-->E:\AUSG\app\src\main\AndroidManifest.xml:11:9-46
+21        android:label="@string/app_name"
+21-->E:\AUSG\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@drawable/ic_launcher1"
+22-->E:\AUSG\app\src\main\AndroidManifest.xml:13:9-51
+23        android:supportsRtl="true"
+23-->E:\AUSG\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/noActionBar"
+25-->E:\AUSG\app\src\main\AndroidManifest.xml:15:9-43
+26        android:usesCleartextTraffic="true" >
+26-->E:\AUSG\app\src\main\AndroidManifest.xml:16:9-44
+27        <activity android:name="com.aushadh.hospital.CreateAlarm" />
+27-->E:\AUSG\app\src\main\AndroidManifest.xml:18:9-69
+27-->E:\AUSG\app\src\main\AndroidManifest.xml:18:19-66
+28        <activity
+28-->E:\AUSG\app\src\main\AndroidManifest.xml:19:9-21:73
+29            android:name="com.aushadh.hospital.CreateBookings"
+29-->E:\AUSG\app\src\main\AndroidManifest.xml:20:13-63
+30            android:parentActivityName="com.aushadh.hospital.FetchDr" />
+30-->E:\AUSG\app\src\main\AndroidManifest.xml:21:13-70
+31        <activity
+31-->E:\AUSG\app\src\main\AndroidManifest.xml:22:9-24:70
+32            android:name="com.aushadh.hospital.FetchDr"
+32-->E:\AUSG\app\src\main\AndroidManifest.xml:23:13-56
+33            android:parentActivityName="com.aushadh.hospital.Dash" />
+33-->E:\AUSG\app\src\main\AndroidManifest.xml:24:13-67
+34        <activity
+34-->E:\AUSG\app\src\main\AndroidManifest.xml:25:9-27:70
+35            android:name="com.aushadh.hospital.AllDrTypes"
+35-->E:\AUSG\app\src\main\AndroidManifest.xml:26:13-59
+36            android:parentActivityName="com.aushadh.hospital.Dash" />
+36-->E:\AUSG\app\src\main\AndroidManifest.xml:27:13-67
+37        <activity
+37-->E:\AUSG\app\src\main\AndroidManifest.xml:28:9-30:70
+38            android:name="com.aushadh.hospital.Hospitalfinder"
+38-->E:\AUSG\app\src\main\AndroidManifest.xml:29:13-63
+39            android:parentActivityName="com.aushadh.hospital.Dash" />
+39-->E:\AUSG\app\src\main\AndroidManifest.xml:30:13-67
+40        <activity
+40-->E:\AUSG\app\src\main\AndroidManifest.xml:31:9-33:70
+41            android:name="com.aushadh.hospital.PathLab"
+41-->E:\AUSG\app\src\main\AndroidManifest.xml:32:13-56
+42            android:parentActivityName="com.aushadh.hospital.Dash" />
+42-->E:\AUSG\app\src\main\AndroidManifest.xml:33:13-67
+43        <activity
+43-->E:\AUSG\app\src\main\AndroidManifest.xml:34:9-36:70
+44            android:name="com.aushadh.hospital.Pharmacy"
+44-->E:\AUSG\app\src\main\AndroidManifest.xml:35:13-57
+45            android:parentActivityName="com.aushadh.hospital.Dash" />
+45-->E:\AUSG\app\src\main\AndroidManifest.xml:36:13-67
+46        <activity android:name="com.aushadh.hospital.LocationSelector" />
+46-->E:\AUSG\app\src\main\AndroidManifest.xml:37:9-74
+46-->E:\AUSG\app\src\main\AndroidManifest.xml:37:19-71
+47        <activity android:name="com.aushadh.hospital.Dash" />
+47-->E:\AUSG\app\src\main\AndroidManifest.xml:38:9-62
+47-->E:\AUSG\app\src\main\AndroidManifest.xml:38:19-59
+48        <activity
+48-->E:\AUSG\app\src\main\AndroidManifest.xml:39:9-42:62
+49            android:name="com.aushadh.hospital.Home"
+49-->E:\AUSG\app\src\main\AndroidManifest.xml:40:13-53
+50            android:label="@string/title_activity_home"
+50-->E:\AUSG\app\src\main\AndroidManifest.xml:41:13-56
+51            android:theme="@style/noActionBar.NoActionBar" />
+51-->E:\AUSG\app\src\main\AndroidManifest.xml:42:13-59
+52        <activity
+52-->E:\AUSG\app\src\main\AndroidManifest.xml:43:9-45:74
+53            android:name="com.aushadh.hospital.OTPHandler"
+53-->E:\AUSG\app\src\main\AndroidManifest.xml:44:13-59
+54            android:parentActivityName="com.aushadh.hospital.Register" />
+54-->E:\AUSG\app\src\main\AndroidManifest.xml:45:13-71
+55        <activity
+55-->E:\AUSG\app\src\main\AndroidManifest.xml:46:9-48:71
+56            android:name="com.aushadh.hospital.Register"
+56-->E:\AUSG\app\src\main\AndroidManifest.xml:47:13-57
+57            android:parentActivityName="com.aushadh.hospital.Login" />
+57-->E:\AUSG\app\src\main\AndroidManifest.xml:48:13-68
+58        <activity
+58-->E:\AUSG\app\src\main\AndroidManifest.xml:49:9-51:71
+59            android:name="com.aushadh.hospital.Registerdoc"
+59-->E:\AUSG\app\src\main\AndroidManifest.xml:50:13-60
+60            android:parentActivityName="com.aushadh.hospital.Login" />
+60-->E:\AUSG\app\src\main\AndroidManifest.xml:51:13-68
+61        <activity android:name="com.aushadh.hospital.Login" />
+61-->E:\AUSG\app\src\main\AndroidManifest.xml:53:9-63
+61-->E:\AUSG\app\src\main\AndroidManifest.xml:53:19-60
+62        <activity
+62-->E:\AUSG\app\src\main\AndroidManifest.xml:54:9-62:20
+63            android:name="com.aushadh.hospital.MainActivity"
+63-->E:\AUSG\app\src\main\AndroidManifest.xml:55:13-61
+64            android:theme="@style/SplashTheme" >
+64-->E:\AUSG\app\src\main\AndroidManifest.xml:56:13-47
+65            <intent-filter>
+65-->E:\AUSG\app\src\main\AndroidManifest.xml:57:13-61:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->E:\AUSG\app\src\main\AndroidManifest.xml:58:17-69
+66-->E:\AUSG\app\src\main\AndroidManifest.xml:58:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->E:\AUSG\app\src\main\AndroidManifest.xml:60:17-77
+68-->E:\AUSG\app\src\main\AndroidManifest.xml:60:27-74
+69            </intent-filter>
+70        </activity>
+71
+72        <receiver
+72-->E:\AUSG\app\src\main\AndroidManifest.xml:63:9-68:41
+73            android:name="com.aushadh.hospital.App.AlarmReceiver"
+73-->E:\AUSG\app\src\main\AndroidManifest.xml:64:13-66
+74            android:enabled="true"
+74-->E:\AUSG\app\src\main\AndroidManifest.xml:65:13-35
+75            android:exported="true"
+75-->E:\AUSG\app\src\main\AndroidManifest.xml:66:13-36
+76            android:permission="TODO" />
+76-->E:\AUSG\app\src\main\AndroidManifest.xml:68:13-38
+77
+78        <service android:name="com.aushadh.hospital.App.AlarmService" />
+78-->E:\AUSG\app\src\main\AndroidManifest.xml:69:9-73
+78-->E:\AUSG\app\src\main\AndroidManifest.xml:69:18-70
+79
+80        <provider
+80-->[com.squareup.picasso:picasso:2.71828] C:\Users\user\.gradle\caches\transforms-2\files-2.1\74321d7a73e857a39391372a7e0fc67e\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+81            android:name="com.squareup.picasso.PicassoProvider"
+81-->[com.squareup.picasso:picasso:2.71828] C:\Users\user\.gradle\caches\transforms-2\files-2.1\74321d7a73e857a39391372a7e0fc67e\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+82            android:authorities="com.aushadh.Aushadh.com.squareup.picasso"
+82-->[com.squareup.picasso:picasso:2.71828] C:\Users\user\.gradle\caches\transforms-2\files-2.1\74321d7a73e857a39391372a7e0fc67e\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+83            android:exported="false" />
+83-->[com.squareup.picasso:picasso:2.71828] C:\Users\user\.gradle\caches\transforms-2\files-2.1\74321d7a73e857a39391372a7e0fc67e\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+84
+85        <receiver
+85-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:29:9-33:20
+86            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+86-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:30:13-85
+87            android:enabled="true"
+87-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:31:13-35
+88            android:exported="false" >
+88-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:32:13-37
+89        </receiver>
+90
+91        <service
+91-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:35:9-38:40
+92            android:name="com.google.android.gms.measurement.AppMeasurementService"
+92-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:36:13-84
+93            android:enabled="true"
+93-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:37:13-35
+94            android:exported="false" />
+94-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:38:13-37
+95        <service
+95-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:39:9-43:72
+96            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+96-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:40:13-87
+97            android:enabled="true"
+97-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:41:13-35
+98            android:exported="false"
+98-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:42:13-37
+99            android:permission="android.permission.BIND_JOB_SERVICE" />
+99-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3a33ad86e72ec0d49a4f57f6d1744c7\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:43:13-69
+100        <service
+100-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aee5905e3b36f3b29067cb6b798e3d80\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:27:9-33:19
+101            android:name="com.google.firebase.components.ComponentDiscoveryService"
+101-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aee5905e3b36f3b29067cb6b798e3d80\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:28:13-84
+102            android:directBootAware="true"
+102-->[com.google.firebase:firebase-common:19.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+103            android:exported="false" >
+103-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aee5905e3b36f3b29067cb6b798e3d80\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:29:13-37
+104            <meta-data
+104-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aee5905e3b36f3b29067cb6b798e3d80\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:30:13-32:85
+105                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+105-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aee5905e3b36f3b29067cb6b798e3d80\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:31:17-139
+106                android:value="com.google.firebase.components.ComponentRegistrar" />
+106-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aee5905e3b36f3b29067cb6b798e3d80\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:32:17-82
+107            <meta-data
+107-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4d2d6e18a23e71677122246f9e56e667\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
+108                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+108-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4d2d6e18a23e71677122246f9e56e667\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
+109                android:value="com.google.firebase.components.ComponentRegistrar" />
+109-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4d2d6e18a23e71677122246f9e56e667\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
+110        </service>
+111
+112        <provider
+112-->[com.google.firebase:firebase-common:19.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+113            android:name="com.google.firebase.provider.FirebaseInitProvider"
+113-->[com.google.firebase:firebase-common:19.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+114            android:authorities="com.aushadh.Aushadh.firebaseinitprovider"
+114-->[com.google.firebase:firebase-common:19.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+115            android:exported="false"
+115-->[com.google.firebase:firebase-common:19.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+116            android:initOrder="100" />
+116-->[com.google.firebase:firebase-common:19.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+117
+118        <meta-data
+118-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+119            android:name="com.google.android.gms.version"
+119-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+120            android:value="@integer/google_play_services_version" />
+120-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+121    </application>
+122
+123</manifest>
