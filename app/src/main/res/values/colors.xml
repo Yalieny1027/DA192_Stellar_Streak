@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B825D1</color>
+    <color name="colorPrimaryDark">#8E14A3</color>
+    <color name="colorAccent">#CB2EE6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#8C11A1</color>
+    <color name="ripple_color_red">#9C27B0</color>
+    <color name="grey">#dddddd</color>
+    <color name="black">#222222</color>
+    <color name="grey_black">#343a40</color>
+    <color name="tab_indicator">#AF2AC6</color>
+    <color name="bg_light">#eeeeee</color>
+    <color name="accent_btn_ripple">#BD28D6</color>
+    <color name="pink_red">#9522A8</color>
+    <color name="alert_red">#C022DC</color>
+</resources>
