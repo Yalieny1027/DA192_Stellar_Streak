@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_people_24.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\search_people_24.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_alarm_black_24dp.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_add_alarm_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_alarm_black_24dp.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_alarm_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_layer.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xhdpi\\logo_layer.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_alarm.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_create_alarm.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_layout_lab.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\single_layout_lab.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\search.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_screen.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-ldpi\\screen.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hospital.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-xhdpi\\hospital.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_layer.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_layer.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_loader.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\custom_loader.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_otphandler.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_otphandler.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_singlebooking.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\singlebooking.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_otp.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\otp.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hospital.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-ldpi\\hospital.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\more.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chip.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\chip.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_layer.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-mdpi\\logo_layer.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_band.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\band.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pharmacy.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_pharmacy.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hospital.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-xxhdpi\\hospital.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hospital.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-mdpi\\hospital.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_screen.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-mdpi\\screen.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_details.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_doctor_details.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alert.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\alert.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\home.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_white.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\anim_fedup.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\anim\\fedup.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dash.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_dash.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_location_selector.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_location_selector.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_home_drawer.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_registration.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\registration.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_hospital.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\single_hospital.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_layer.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_layer.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher1.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_launcher1.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_symbol.jpeg.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\logo_symbol.jpeg"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stscope.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\stscope.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\phone.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_layer.jpeg.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\logo_layer.jpeg"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hospital.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-hdpi\\hospital.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hospital.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-xxxhdpi\\hospital.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_dateselector.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\dateselector.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_layer.jpeg.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_layer.jpeg"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_labs.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\labs.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_dr_types.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_all_dr_types.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_drugs.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\single_drugs.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pills.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\pills.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_red.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_screen.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-xhdpi\\screen.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_screen.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_layout_type.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\single_layout_type.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_danger.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\alert_danger.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_success_alert.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\success_alert.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left_arrow.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\left_arrow.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_screen.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-hdpi\\screen.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_doc.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_register_doc.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_layer.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-hdpi\\logo_layer.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_city.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\single_city.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_dr_type.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\single_dr_type.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_screen.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_succss.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\succss.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospitalb.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\hospitalb.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-hdpi\\logo_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hospitalfinder.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_hospitalfinder.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_path_lab.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_path_lab.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_input.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_border.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-mdpi\\logo_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fetch_dr.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_fetch_dr.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_layout_doctor.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\single_layout_doctor.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_border_red.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\bg_border_red.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_s.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\logo_s.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_bookings.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_create_bookings.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_round.png.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\mipmap-xhdpi\\logo_round.png"
+    },
+    {
+        "merged": "E:\\AUSG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AUSG\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
