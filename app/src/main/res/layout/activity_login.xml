@@ -16,40 +16,32 @@
         android:layout_marginBottom="@dimen/size_4"
         android:src="@drawable/logo_layer" />
 
-    <TextView
-        android:layout_width="match_parent"
+        <TextView
+            android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/loginAcnt"
+        android:text="Login as Patient"
         android:textColor="@color/black"
         android:textSize="@dimen/size_24"
         android:textStyle="bold" />
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/margin_top"
-        android:layout_marginBottom="@dimen/margin_top"
-        android:text="@string/login_text" />
-
-    <EditText
+        <EditText
         android:id="@+id/mobile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/margin_top"
         android:background="@drawable/bg_input"
-        android:hint="@string/entermobile"
+        android:hint="Enter your number"
         android:inputType="number" />
-
-    <EditText
+        <EditText
         android:id="@+id/password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/margin_top"
         android:background="@drawable/bg_input"
-        android:hint="@string/enterpassword"
+        android:hint="Enter your password"
         android:inputType="textPassword" />
 
-    <Button
+        <Button
         android:id="@+id/loginBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -59,7 +51,7 @@
         android:text="@string/login"
         android:textColor="@color/white" />
 
-    <Button
+        <Button
         android:id="@+id/registerBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -67,5 +59,30 @@
         android:text="@string/register"
         android:textColor="#FF9800"
         android:theme="@style/FlatButton" />
+        <Button
+        android:id="@+id/regdoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_24"
+        android:text="Register as a Doctor"
+        android:textColor="#FF9800"
+        android:theme="@style/FlatButton" />
+        <Button
+        android:id="@+id/logdoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_24"
+        android:text="Login as a Doctor"
+        android:textColor="#FF9800"
+        android:theme="@style/FlatButton" />
+        <Button
+        android:id="@+id/logadmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_24"
+        android:text="Login as a Admin"
+        android:textColor="#FF9800"
+        android:theme="@style/FlatButton" />
+
 
 </LinearLayout>
