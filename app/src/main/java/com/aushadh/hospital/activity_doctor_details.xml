@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.aushadh.hospital.Doctor_details">
+    <include
+        android:id="@+id/doctor_profile_toolbar"
+        layout="@layout/app_bar_home"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="-8dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="403dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:text="                  DOCTORS LIST"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/size_24"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/doctor_profile_toolbar"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/doctor_profile_toolbar"
+        app:layout_constraintVertical_bias="0.413" />
+
+    <Button
+        android:id="@+id/peri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff"
+        android:text="     Dr.Periyasamy V, MBBS,MD"
+        android:textAlignment="viewStart"
+        android:textColor="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/doctor_profile_toolbar"
+        app:layout_constraintVertical_bias="0.143"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/nith"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff"
+        android:text="     Dr.Nithesh Kamal M, MBBS,MD"
+        android:textAlignment="viewStart"
+        android:textColor="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/doctor_profile_toolbar"
+        app:layout_constraintVertical_bias="0.243"
+        tools:layout_editor_absoluteX="-16dp" />
+
+    <Button
+        android:id="@+id/pras"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff"
+        android:text="     Dr.Prasad B R, MBBS,MD"
+        android:textAlignment="viewStart"
+        android:textColor="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/doctor_profile_toolbar"
+        app:layout_constraintVertical_bias="0.344"
+        tools:layout_editor_absoluteX="0dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
